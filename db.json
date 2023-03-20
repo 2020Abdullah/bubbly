@@ -11,8 +11,13 @@
   "myServices": [
     {
       "id": 1,
-      "name": "Web Developer",
-      "desc": "Modern and mobile-ready website that will help you reach all of your marketing."
+      "name": "web design",
+      "desc": "Create Website Interfaces"
+    },
+    {
+      "id": 1,
+      "name": "web responsive",
+      "desc": "Make Responsive Design"
     }
   ],
   "myExper": [
