@@ -1,16 +1,143 @@
 {
-  "posts":[
+  "myinfo": {
+    "id": 1,
+    "name": "Abdallah Mohamad",
+    "desc": "I am Abdallah, web designer from Egypt, cairo. I have rich experience in web site design and building and customization, also I am good at wordpress. I love to talk with you about our unique.",
+    "age": "24",
+    "country": "Egypt",
+    "city": "cairo",
+    "freelancer": "1"
+  },
+  "myServices": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "name": 1,
+      "desc": ""
     }
   ],
-  "comments" : [
+  "myExper": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": 1,
+      "date": "",
+      "name": "",
+      "decs": ""
+    }
+  ],
+  "myskills": [
+    {
+      "id": 1,
+      "skills": ""
+    }
+  ],
+  "myKnow": [
+    {
+      "id": 1,
+      "know": ""
+    }
+  ],
+  "works": [
+    {
+      "image": "https://picsum.photos/id/100/200/200",
+      "title": "image title",
+      "type" : "e-commerce"
+    },
+    {
+      "image": "https://picsum.photos/id/200/200/200",
+      "title": "image title",
+      "type" : "portfolio"
+    },
+    {
+      "image": "https://picsum.photos/id/50/200/200",
+      "title": "image title",
+      "type" : "e-commerce"
+    },
+    {
+      "image": "https://picsum.photos/id/350/200/200",
+      "title": "image title",
+      "type" : "portfolio"
+    },
+    {
+      "image": "https://picsum.photos/id/25/200/200",
+      "title": "image title",
+      "type" : "Restrant"
+    },
+    {
+      "image": "https://picsum.photos/id/240/200/200",
+      "title": "image title",
+      "type" : "Restrant"
+    },
+    {
+      "image": "https://picsum.photos/id/456/200/200",
+      "title": "image title",
+      "type" : "e-commerce"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "image": "https://picsum.photos/id/7/200/200",
+      "date": "march 18, 2023",
+      "title": "Lorem ipsum dolor sit amet consectetur",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, sunt. Beatae excepturi recusandae sunt sed pariatur tempora vel eos autem repellendus quam eligendi doloribus, tenetur, dolor ipsa obcaecati amet qui!",
+      "tags": "design, music, code",
+      "author": "Admin"
+    },
+    {
+      "id": "2",
+      "image": "https://picsum.photos/id/10/200/200",
+      "date": "march 18, 2023",
+      "title": "Lorem ipsum dolor sit amet consectetur",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, sunt. Beatae excepturi recusandae sunt sed pariatur tempora vel eos autem repellendus quam eligendi doloribus, tenetur, dolor ipsa obcaecati amet qui!",
+      "tags": "animate, web",
+      "author": "Admin"
+    },
+    {
+      "id": "3",
+      "image": "https://picsum.photos/id/40/200/200",
+      "date": "march 18, 2023",
+      "title": "Lorem ipsum dolor sit amet consectetur",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, sunt. Beatae excepturi recusandae sunt sed pariatur tempora vel eos autem repellendus quam eligendi doloribus, tenetur, dolor ipsa obcaecati amet qui!",
+      "tags": "html, css, code",
+      "author": "Admin"
+    },
+    {
+      "id": "4",
+      "image": "https://picsum.photos/id/50/200/200",
+      "date": "march 18, 2023",
+      "title": "Lorem ipsum dolor sit amet consectetur",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, sunt. Beatae excepturi recusandae sunt sed pariatur tempora vel eos autem repellendus quam eligendi doloribus, tenetur, dolor ipsa obcaecati amet qui!",
+      "tags": "web",
+      "author": "Admin"
+    }
+  ],
+  "comments": [
+    {
+      "post_id": 1,
+      "image": "fa fa-user",
+      "name": "Abdo",
+      "date": "march 19, 2023",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, sunt. Beatae excepturi recusandae sunt sed pariatur tempora vel eos autem repellendus quam eligendi doloribus, tenetur, dolor ipsa obcaecati amet qui!"
+    },
+    {
+      "post_id": 1,
+      "image": "fa fa-user",
+      "name": "yasmin",
+      "date": "march 19, 2023",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, sunt. Beatae excepturi recusandae sunt sed pariatur tempora vel eos autem repellendus quam eligendi doloribus, tenetur, dolor ipsa obcaecati amet qui!"
+    },
+    {
+      "post_id": 2,
+      "image": "fa fa-user",
+      "name": "Mohamad",
+      "date": "march 20, 2023",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, sunt. Beatae excepturi recusandae sunt sed pariatur tempora vel eos autem repellendus quam eligendi doloribus, tenetur, dolor ipsa obcaecati amet qui!"
+    },
+    {
+      "post_id": 3,
+      "image": "fa fa-user",
+      "name": "Ahmed",
+      "date": "march 21, 2023",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, sunt. Beatae excepturi recusandae sunt sed pariatur tempora vel eos autem repellendus quam eligendi doloribus, tenetur, dolor ipsa obcaecati amet qui!"
     }
   ]
 }
